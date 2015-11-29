@@ -20,7 +20,7 @@ QUEST_JOBSTEP_20150317_000019	$Mestre Criomante
 QUEST_JOBSTEP_20150317_000020	{memo X}$Você quer aprender a magia do Criomante comigo? {nl}Claro, eu ensinarei você, mas somente se você cuidar de algo primeiro!
 QUEST_JOBSTEP_20150317_000021	$A Mestre Piromante não deve estar por perto. {nl}Então será uma tarefa fácil.
 QUEST_JOBSTEP_20150317_000022	$Não se sinta culpado em relação a isso. Você fez um bom trabalho. {nl}Eu ti darei cobertura agora, então não precisa se preocupar.
-QUEST_JOBSTEP_20150317_000023
+QUEST_JOBSTEP_20150317_000023 {memo X}Vá sorrateiramento ao quarto do Mestre Piromancer e abre a caixa. {nl}Como assim o que está dentro da caixa...Bem, você apenas tem que matar o que sair.
 QUEST_JOBSTEP_20150317_000024	{memo X}Isto será suficiente. {nl}Minha mágica não é fácil então você precisará trabalhar duro para continuar.
 QUEST_JOBSTEP_20150317_000025	$Sua vontade de aprender comigo é ótima, mas primeiro terei que lhe pedir um favor. {nl}Podemos continuar nossa conversa se você estiver de acordo com isso. {nl}
 QUEST_JOBSTEP_20150317_000026	$Os acessórios de Lydia Schaffen são como materiais divinos para nós arqueiros. {nl}Eu poderia desistir de toda minha fortuna para tê-los.
